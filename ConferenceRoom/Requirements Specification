@@ -1,0 +1,11 @@
+Employee
+- Login 
+- Search conference rooms
+- Book room (Email confirmation) - id, roomid, employeeid, date, recursive, slotno, slot time, status
+- Recursive booking - (daily, weekly)
+- Cancel booking
+
+
+Admin
+- Manage employees (id, firstname, lastname, department, email, username, password)
+- Manage conference rooms (id, name, Projector, Phone, capacity)
